@@ -1,0 +1,23 @@
+{
+  "name": "cosmos-atom-lib",
+  "version": "1.0.0",
+  "description": "The methods for working with the Cosmos(ATOM) blockchain. It's suitable for web wallets and exchanges",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewVV/cosmos-atom-lib.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewVV/cosmos-atom-lib/issues"
+  },
+  "homepage": "https://github.com/AndrewVV/cosmos-atom-lib#readme",
+  "dependencies": {
+    "@cosmostation/cosmosjs": "^0.5.6"
+  }
+}
